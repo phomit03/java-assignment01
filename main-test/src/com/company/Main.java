@@ -68,7 +68,7 @@ public class Main {
         }
 
         String[] products = new String[5];
-        for(String product:products){
-
+        for(String product:products) {
+        }
     }
 }
